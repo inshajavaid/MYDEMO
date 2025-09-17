@@ -1,3 +1,3 @@
 # MYDEMO
-starting with git
+this is my ftrst time with git
 Author-Insha
